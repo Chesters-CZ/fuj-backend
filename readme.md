@@ -1,0 +1,1 @@
+### Pokud bude někdy potřeba měnit ceny nebo názvy, změnte data.json v src/cz.brightbox.fujbackend/
