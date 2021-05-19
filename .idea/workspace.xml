@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e7bda5c-a432-406d-a6a7-97e35d998819" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cz/brightbox/fujbackend/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cz/brightbox/fujbackend/JsonLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cz/brightbox/fujbackend/JsonLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cz/brightbox/fujbackend/ApiConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cz/brightbox/fujbackend/ApiConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cz/brightbox/fujbackend/Resources.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cz/brightbox/fujbackend/Resources.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cz/brightbox/fujbackend/data.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,6 +142,13 @@
       <workItem from="1621233934030" duration="1000" />
       <workItem from="1621234172696" duration="9989000" />
       <workItem from="1621249394344" duration="666000" />
+      <workItem from="1621323477730" duration="1258000" />
+      <workItem from="1621328931440" duration="361000" />
+      <workItem from="1621338478291" duration="4000" />
+      <workItem from="1621341884945" duration="657000" />
+      <workItem from="1621342961786" duration="341000" />
+      <workItem from="1621409782570" duration="448000" />
+      <workItem from="1621410621367" duration="310000" />
     </task>
     <servers />
   </component>

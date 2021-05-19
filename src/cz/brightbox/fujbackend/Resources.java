@@ -8,6 +8,7 @@ import java.io.FileNotFoundException;
 public class Resources {
 
     @GET
+    @Path("data")
     public Response getPrices() {
         try {
             return Response.ok(JsonLoader.loadJson("data.json")).build();
